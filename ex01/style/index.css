@@ -1,0 +1,29 @@
+.slika{
+     height: 200px;
+     width: 300px;;
+     
+}
+.inline1{
+    display:inline-block;
+    padding: 100px 18px 18px 58px;
+    text-align: center;
+}
+.inline2{
+     display: inline-block;
+     padding: 100px 18px 18px 58px;
+     text-align: center;
+}
+.inline3{
+     display: inline-block;
+     padding: 100px 18px 18px 58px;
+     text-align: center;
+}
+ .paragrafi1{
+        display: inline-block;
+        text-transform: lowercase;
+        text-align-last: justify;
+        
+ }
+ .naslovi1{
+  color: aqua;
+ }
